@@ -66,7 +66,7 @@
 /* SECTION NO 1 */
 
 .section-1 {
-    background-color: #F2F2F2;
+    background-image: url(../images/Picture26.png);
     height: 450px;
     padding: 0px;
 }
@@ -78,7 +78,7 @@
 .image-frame {
     width: 380px;
     height: 380px;
-    background-image: url(../images/profile-image.png);
+    background-image: url(../images/Photo\ licence.jpg);
     background-position: center;
     background-size: cover;
     border: 8px solid #FFFFFF;
@@ -349,7 +349,7 @@
 /*  SECTION NO 4 */
 
 .section-4 {
-    padding: 200px 0px 150px 0px;
+    padding: 50px 0px 50px 0px;
 }
 
 .section-4-left {
@@ -686,7 +686,8 @@
 }
 
 .masonry .grid img {
-    width: 100%;
+    width: 20%;
+    float:right;
     border-radius: 5px;
 }
 
@@ -944,7 +945,7 @@
 .card-circle {
     width: 100px;
     height: 100px;
-    background-color: #3E64FF;
+    background-color: #083967;
     border-radius: 50%;
     margin: 10px auto;
     position: relative;
@@ -1001,7 +1002,7 @@
 }
 
 #contact-custom-button {
-    background-color: #3E64FF;
+    background-color: #062A4B;
     color: #FFFFFF;
     padding: 16px 60px;
     border-radius: 50px;
@@ -1071,7 +1072,7 @@
 
 .section-7 {
     padding: 170px 0px 170px 0px;
-    background-image: url(../images/footer-img.jpg);
+    background-image: url(../images/Picture2.png);
     background-position: top;
     background-size: cover;
     position: relative;
@@ -1098,10 +1099,10 @@
 }
 
 .section-7-text {
-    font-size: 24px;
+    font-size: 20px;
     font-family: Roboto, sans-serif;
     font-weight: 400;
-    line-height: 1.6;
+    line-height: 1s;
     color: #FFFFFF;
 }
 
